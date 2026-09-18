@@ -519,7 +519,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_9 = new lib.Symbol1("synched",0);
 	this.instance_9.setTransform(1085,209,1,1,0,0,0,1316,209);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).to({x:466},422).wait(58));
+	this.timeline.addTween(cjs.Tween.get(this.instance_9).to({x:596.5},479).wait(1));
 
 	this._renderFirstFrame();
 

@@ -351,7 +351,7 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_7
 	this.instance_1 = new lib.Symbol6("synched",0);
-	this.instance_1.setTransform(1058,160,1,1,0,0,0,175.5,102);
+	this.instance_1.setTransform(1057.2,160,1,1,0,0,0,175.5,102);
 	this.instance_1._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(227).to({_off:false},0).to({_off:true},32).wait(221));
@@ -395,7 +395,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_7 = new lib.Symbol1("synched",0);
 	this.instance_7.setTransform(1316,209,1,1,0,0,0,1316,209);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({x:466},342).wait(138));
+	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({x:466},479).wait(1));
 
 	this._renderFirstFrame();
 
