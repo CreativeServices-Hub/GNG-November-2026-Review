@@ -347,21 +347,21 @@ if (reversed == null) { reversed = false; }
 	this.instance.alpha = 0;
 	this.instance._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(159).to({_off:false},0).to({alpha:1},34).wait(287));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(125).to({_off:false},0).to({alpha:1},34).wait(321));
 
 	// Layer_7
 	this.instance_1 = new lib.Symbol6("synched",0);
 	this.instance_1.setTransform(1057.2,160,1,1,0,0,0,175.5,102);
 	this.instance_1._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(227).to({_off:false},0).to({_off:true},32).wait(221));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(193).to({_off:false},0).to({_off:true},32).wait(255));
 
 	// Layer_8
 	this.instance_2 = new lib.Symbol8("synched",0);
 	this.instance_2.setTransform(1458.55,160.5,1,1,0,0,0,175.5,102.5);
 	this.instance_2._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(120).to({_off:false},0).to({x:1058.5},31,cjs.Ease.get(1)).wait(329));
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(86).to({_off:false},0).to({x:1058.5},31,cjs.Ease.get(1)).wait(363));
 
 	// Layer_3
 	this.instance_3 = new lib.Symbol2("synched",0);
@@ -375,21 +375,21 @@ if (reversed == null) { reversed = false; }
 	this.instance_4.setTransform(348,111);
 	this.instance_4._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(60).to({_off:false},0).wait(420));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(37).to({_off:false},0).wait(443));
 
 	// Layer_5
 	this.instance_5 = new lib.Symbol5("synched",0);
 	this.instance_5.setTransform(357.3,119.7,0.0078,1,0,0,0,6.4,8.7);
 	this.instance_5._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(60).to({_off:false},0).to({regX:5.2,scaleX:1,x:357.2},23).wait(397));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(37).to({_off:false},0).to({regX:5.2,scaleX:1,x:357.2},23).wait(420));
 
 	// Layer_2
 	this.instance_6 = new lib.Symbol3("synched",0);
 	this.instance_6.setTransform(1522.95,356.5,1,1,0,0,0,240,26.5);
 	this.instance_6._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(120).to({_off:false},0).to({x:1243.95},31,cjs.Ease.get(1)).wait(329));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(86).to({_off:false},0).to({x:1243.95},31,cjs.Ease.get(1)).wait(363));
 
 	// Layer_1
 	this.instance_7 = new lib.Symbol1("synched",0);
